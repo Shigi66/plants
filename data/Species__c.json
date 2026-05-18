@@ -1,0 +1,17 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Species__c",
+                "referenceId": "Species__cRef1"
+            },
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Ideal_Max_Temperature__c": 25,
+            "Image_URL__c": "https://caracol.com.co/resizer/v2/74NK5UEG3VFM7OZWHRF3VPZO64.png?auth=819c817238d8efd81a7c13d54eba55422b157b20ff553629a09d0ab44215ca45&quality=70&width=768&height=576&smart=true",
+            "Image__c": "<img src=\"https://caracol.com.co/resizer/v2/74NK5UEG3VFM7OZWHRF3VPZO64.png?auth=819c817238d8efd81a7c13d54eba55422b157b20ff553629a09d0ab44215ca45&amp;quality=70&amp;width=768&amp;height=576&amp;smart=true\" alt=\"Image\" border=\"0\"/>",
+            "Location__c": "Outdoors",
+            "Pulverization__c": false,
+            "Type__c": "Edible"
+        }
+    ]
+}
